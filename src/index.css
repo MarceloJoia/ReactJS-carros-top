@@ -26,19 +26,19 @@
     --sucesso-notification-ct-color: #0caf1d;
 }
 
-a, a:hover {
+a,
+a:hover {
     text-decoration: none;
     color: unset;
 }
 
-html, body {
+html,
+body {
     background-color: var(--bg-primary-ct-color);
 }
 
-main {
-    padding: 0 20px;
-}
-
-.container-ct{
-    
+.container-ct {
+    margin: auto;
+    width: 100%;
+    max-width: 960px;
 }

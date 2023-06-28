@@ -1,5 +1,6 @@
 import './index.css';
 
+import Container from './componentes/Container';
 import Catalog from './routes/Catalog';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <Catalog/>
+      <Container/>
     </>
   )
 }
