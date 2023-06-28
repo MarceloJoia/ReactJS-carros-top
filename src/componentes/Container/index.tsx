@@ -39,11 +39,35 @@ export default function Container() {
                     </section>
                 </div>
 
-                <section className="comment-content">
+                <section className="comment-content pb-20">
                     <h3>O que estão dizendo</h3>
 
                     <div className="container-ct">
                         <div className="grid-container-ct">
+
+                            <div className="comment-content-article">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae harum voluptatem ad fugit id distinctio.</p>
+                            </div>
+
+                            <div className="comment-content-article">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae harum voluptatem ad fugit id distinctio.</p>
+                            </div>
+
+                            <div className="comment-content-article">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae harum voluptatem ad fugit id distinctio.</p>
+                            </div>
+
+                            <div className="comment-content-article">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae harum voluptatem ad fugit id distinctio.</p>
+                            </div>
+
+                            <div className="comment-content-article">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae harum voluptatem ad fugit id distinctio.</p>
+                            </div>
+
+                            <div className="comment-content-article">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae harum voluptatem ad fugit id distinctio.</p>
+                            </div>
 
                             <div className="comment-content-article">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae harum voluptatem ad fugit id distinctio.</p>
