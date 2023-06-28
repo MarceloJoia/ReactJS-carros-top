@@ -1,0 +1,15 @@
+header {
+    width: 100%;
+
+    background-color: var(--bg-secondary-ct-color);
+}
+
+header h1 {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--font-secondary-ct-color);
+    font-size: 24px;
+    font-weight: 700;
+}

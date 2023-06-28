@@ -1,10 +1,12 @@
 import './index.css';
 
+import Catalog from './routes/Catalog';
+
 function App() {
 
   return (
     <>
-      <h1>template clear</h1>
+      <Catalog/>
     </>
   )
 }
